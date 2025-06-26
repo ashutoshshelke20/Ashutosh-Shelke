@@ -11,7 +11,7 @@
 <h2>✒️ Recent Project</h2>
 <ul>
 <li>URL Shortener</li>
-<li>Server Performance Statsli>
+<li>Server Performance Stats</li>
 <li><a target="_blank" href=""></a></li>
 </ul>
 <h2>⚡️ Where to find me</h2>
