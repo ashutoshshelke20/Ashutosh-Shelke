@@ -12,7 +12,6 @@
 <ul>
 <li>URL Shortener</li>
 <li>Server Performance Stats</li>
-<li><a target="_blank" href=""></a></li>
 </ul>
 <h2>⚡️ Where to find me</h2>
 <p><a target="_blank" href="https://www.linkedin.com/in/https://www.linkedin.com/in/ashutosh-shelke-madein1997/" style="display: inline-block;"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" /></a>
